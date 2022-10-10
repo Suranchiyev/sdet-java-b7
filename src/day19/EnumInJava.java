@@ -1,7 +1,5 @@
 package day19;
 
-import util.InputFromUser;
-
 public class EnumInJava {
 	enum Country {
 		USA, 
